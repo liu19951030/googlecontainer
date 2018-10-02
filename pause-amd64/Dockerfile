@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:v3.1
+FROM gcr.io/google_containers/pause-amd64:3.1
 MAINTAINER liu19951030
