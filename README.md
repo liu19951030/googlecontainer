@@ -28,3 +28,8 @@ k8s-dns-kube-dns-amd64:${DNS_VERSION}
 
 k8s-dns-dnsmasq-nanny-amd64:${DNS_VERSION}
 
+coredns:1.2.2
+tiller:v2.11.0
+defaultbackend:1.4
+kubernetes-dashboard-amd64:v1.10.0
+metrics-server-amd64:v0.3.0
