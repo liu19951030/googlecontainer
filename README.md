@@ -28,16 +28,28 @@ k8s-dns-kube-dns-amd64:${DNS_VERSION}
 
 k8s-dns-dnsmasq-nanny-amd64:${DNS_VERSION}
 
+
+
 kube-proxy:${KUBE_VERSION} 
+
 kube-scheduler:${KUBE_VERSION} 
+
 kube-controller-manager:${KUBE_VERSION} 
+
 kube-apiserver:${KUBE_VERSION} 
+
 pause:${KUBE_PAUSE_VERSION} 
+
 etcd:${ETCD_VERSION} 
+
 k8s-dns-sidecar:${DNS_VERSION} 
+
 k8s-dns-kube-dns:${DNS_VERSION} 
+
 k8s-dns-dnsmasq-nanny:${DNS_VERSION}
+
 coredns:${COREDNS}
+
 
 coredns:1.2.2
 tiller:v2.11.0
