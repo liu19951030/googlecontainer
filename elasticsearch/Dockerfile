@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/elasticsearch:v6.4.3
+FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.4.3
 MAINTAINER liu19951030
