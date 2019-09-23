@@ -1,2 +1,2 @@
-FROM b.gcr.io/tensorflow/tensorflow-full:1.14.0
+FROM b.gcr.io/tensorflow/tensorflow-full:latest
 MAINTAINER liu19951030
