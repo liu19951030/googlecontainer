@@ -1,0 +1,2 @@
+FROM docker.io/prom:v2.15.1
+MAINTAINER liu19951030
