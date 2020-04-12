@@ -1,2 +1,2 @@
-FROM quay.io/kiali/kiali:v1.4
+FROM quay.io/kiali:v1.15
 MAINTAINER liu19951030
